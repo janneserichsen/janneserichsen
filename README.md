@@ -1,11 +1,14 @@
 # My Introduction
 Hello my Name is Jannes Erichsen iam born on 13.11.2004 in Itzehoe so iam 18
 Next step ima tell you some about my freetime activities 
-- Graffiti and everything that belongs to that
+
 - Kickboxing
 - Listen to music
 - Going to the gym
 - and my last fav activitie is tattoing 
+- Graffiti and everything that belongs to that
+
+![IMG_0317](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIy0cQULjfrW89SLXZQoaoqRIBe2AIg457Cw&usqp=CAU)
 
 Next step iam talking about why i want to become a developer
 - there is so much selection in which part you want to work in the developer world
@@ -33,9 +36,6 @@ Now iam gonna finish with my weaknesses
 
 Last i wanna thank ya for your Time and hope You know me now better 
 
-Underneath the last Sentence you will see a picture of me
 
-![IMG_0317](https://user-images.githubusercontent.com/118190990/201691647-d3e74bca-0807-4aea-8147-f27b6474f503.jpeg)
- 
 
-![link]()
+
